@@ -6,24 +6,26 @@ We can't wait to share more of the code we're making and work with you to expand
 
 ### 🔗 Links
 
-- [Website](inline.chat)
-- [Docs (WIP)](inline.chat/docs)
-- [Updates on X](x.com/inline_chat)
-- Founders: [Mo](x.com/morajabi), [Dena](x.com/dena_sohrabi)
+- [Website](https://inline.chat)
+- [Docs (WIP)](https://inline.chat/docs)
+- [Updates on X](https://x.com/inline_chat)
+- Founders: [Mo](https://x.com/morajabi), [Dena](https://x.com/dena_sohrabi)
 - ~~Changelog~~ _Not launched yet_
 
 ### 💡 FAQ
 
 #### Will Inline be open source?
 
-Currently, we don't think open sourcing our early product will be net positive for our users given the additional overhead. We are, however, considering to open source parts or even whole client apps in the future. Please share your thoughts with us.
+At the moment, open-sourcing our product in early development will not be a net positive for our users, given the additional overhead. We are, however, considering open-sourcing parts or even whole client apps in near future. Also, please share your thoughts with us on this topic.
 
 #### What's your tech stack?
 
-We use Swift for our macOS and iOS apps. Mostly Swift UI, with core components such as message list and text editor in UIKit/AppKit. 
-We use Bun on the server with a Postgres database. 
-Upcoming: Our web app will be in React, as that's what we're most comfortable in. Android will use Kotlin. We have not decided for Windows and Linux yet as there are several choices.
-
+- macOS and iOS apps: Swift, mostly SwiftUI with core components (eg. message list and text editor) in UIKit/AppKit.
+- Server: Bun with a Postgres database
+- Web app: React
+- Android: Kotlin
+- Windows and Linux: Undecided
+ 
 ### 💬 Get in Touch
 
 - Email `team [at] inline.chat`
