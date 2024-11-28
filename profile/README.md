@@ -7,8 +7,9 @@ We can't wait to share more of the code we're making and work with you to expand
 ### 🔗 Links
 
 - [Website](https://inline.chat)
-- [Docs (WIP)](https://inline.chat/docs)
+- [Talk to Us](https://inline.chat/feedback)
 - [Updates on X](https://x.com/inline_chat)
+- [Docs (WIP)](https://inline.chat/docs)
 - Founders: [Mo](https://x.com/morajabi), [Dena](https://x.com/dena_sohrabi)
 - ~~Changelog~~ _Not launched yet_
 
