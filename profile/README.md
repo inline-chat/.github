@@ -7,7 +7,7 @@ We can't wait to share more of the code we're making and work with you to expand
 ### 🔗 Links
 
 - [Website](https://inline.chat)
-- [Talk to Us](https://inline.chat/feedback)
+- [Talk to Us](https://inline.chat/feedback) or [start a discussion](https://github.com/inlinehq/.github/discussions) here
 - [Updates on X](https://x.com/inline_chat)
 - [Docs (WIP)](https://inline.chat/docs)
 - Founders: [Mo](https://x.com/morajabi), [Dena](https://x.com/dena_sohrabi)
