@@ -2,8 +2,6 @@
 
 Welcome to Inline's GitHub! 👋
 
-We can't wait to share more of the code we're making and work with you to expand the limit of what's possible in today's chat apps.
-
 ### 🔗 Links
 
 - [Website](https://inline.chat)
@@ -15,9 +13,6 @@ We can't wait to share more of the code we're making and work with you to expand
 
 ### 💡 FAQ
 
-#### Will Inline be open source?
-
-At the moment, open-sourcing our product in early development will not be a net positive for our users, given the additional overhead. We are, however, considering open-sourcing parts or even whole client apps in near future. We're interested to hear your thoughts on this.
 
 #### What's your tech stack?
 
